@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gabriel Uchoa 😄
 
-Um desenvolvedor backend focado em boas práticas e Clean Architecture, com conhecimento no desenvolvimento de API, bancos de dados relacionais com PostgreSQL e MySQL
+Um desenvolvedor backend focado em boas práticas de desenvolvimento, com conhecimento no desenvolvimento de API, bancos de dados relacionais com PostgreSQL e MySQL
 validação de dados com DTO, versionamento com Git/GitHub e conteinarização com Docker.
 
   [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-uchoa-de-sousa-9911662ba)
